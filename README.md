@@ -17,3 +17,9 @@ Wireframing is the process of creating a simple blueprint of a digital productâ€
   - Axure RP
   - Figma 
 Figma stands out as the top recommended tool due to its accessibility and collaboration  features
+
+# Benefits of Wireframing in software development
+- It saves time and cost
+- It enhances collaboration
+- It guides development -  it makes implementation clearer and more efficient.
+- Clarifies requirements.
