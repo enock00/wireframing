@@ -8,3 +8,12 @@ Wireframing is the process of creating a simple blueprint of a digital productâ€
 2. High Fidelity wireframes(Hi-fi)
 - Detailed and close to final   product with actual fonts, colors and images.
 - Used in demonstrating to clients and hand over to developers.
+
+# Popular Wireframing Tools
+ - Each of the tools offer different features for different stages of design process. Some of these tools are;
+  - Balsamiq
+  - Sketch
+  - Adobe XD
+  - Axure RP
+  - Figma 
+Figma stands out as the top recommended tool due to its accessibility and collaboration  features
