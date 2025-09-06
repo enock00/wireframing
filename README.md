@@ -1,0 +1,1 @@
+Wireframing is the process of creating a simple blueprint of a digital product’s layout and functionality. It helps teams focus on structure and user experience before adding visual details, ensuring clarity, saving time, and fostering collaboration early in the design process.
